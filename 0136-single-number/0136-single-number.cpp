@@ -1,17 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+        unordered_map<int,int>mp;
         for(int e:nums)
         {
-            int c=0;
-            for(int i=0;i<nums.size();i++)
+            mp[e]++;
+        }
+        for(auto[k,v]:mp)
+        {
+            if(v==1)
             {
-                if(nums[i]==e)
-                {
-                    c++;
-                }
+                return k;
             }
-            if(c==1)return e;
         }
         return -1;
     }
