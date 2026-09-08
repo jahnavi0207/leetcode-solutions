@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0258-add-digits) |
+| [1017-convert-to-base-2](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [2843-count-symmetric-integers](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 ## Simulation
