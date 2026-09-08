@@ -1,25 +1,23 @@
 class Solution {
 public:
-    string baseNeg2(int num) {
-        if (num == 0)
-            return "0";
+    string baseNeg2(int n) {
+        if (n == 0) return "0";
 
-        string ans = "";
+        string s = "";
 
-        while (num != 0) {
-            int rem = num % -2;
-            num /= -2;
+        while (n != 0) {
+            int r = n % -2;
+            n /= -2;
 
-            if (rem < 0) {
-                rem += 2;
-                num++;
+            if (r < 0) {
+                r += 2;
+                n++;
             }
 
-            ans += char('0' + rem);
+            s += char('0' + r);
         }
 
-        reverse(ans.begin(), ans.end());
-
-        return ans;
+        reverse(s.begin(), s.end());
+        return s;
     }
 };
