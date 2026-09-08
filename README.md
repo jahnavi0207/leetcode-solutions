@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0136-single-number) |
+| [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0258-add-digits) |
+| [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1017-convert-to-base-2](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [2843-count-symmetric-integers](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
