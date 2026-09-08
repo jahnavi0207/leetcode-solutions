@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0258-add-digits) |
+| [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [2843-count-symmetric-integers](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 ## Simulation
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
