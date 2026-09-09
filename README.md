@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [2057-smallest-index-with-equal-value](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0258-add-digits) |
