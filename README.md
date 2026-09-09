@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [2057-smallest-index-with-equal-value](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -99,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
