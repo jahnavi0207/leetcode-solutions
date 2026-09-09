@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1017-convert-to-base-2](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
