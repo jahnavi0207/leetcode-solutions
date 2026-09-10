@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1184-distance-between-bus-stops](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [2057-smallest-index-with-equal-value](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2643-row-with-maximum-ones](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1362-closest-divisors) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
