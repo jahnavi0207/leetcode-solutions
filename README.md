@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Quicksort
 |  |
 | ------- |
