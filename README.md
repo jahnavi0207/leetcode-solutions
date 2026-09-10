@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1184-distance-between-bus-stops](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0704-binary-search) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
