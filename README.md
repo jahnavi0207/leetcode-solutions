@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1017-convert-to-base-2](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1175-prime-arrangements) |
+| [1362-closest-divisors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1362-closest-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2413-smallest-even-multiple](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0075-sort-colors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
