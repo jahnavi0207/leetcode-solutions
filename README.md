@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2057-smallest-index-with-equal-value](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -164,5 +165,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
