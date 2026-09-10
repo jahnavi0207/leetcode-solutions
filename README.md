@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Quicksort
