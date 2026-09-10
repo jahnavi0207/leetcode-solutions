@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0344-reverse-string) |
