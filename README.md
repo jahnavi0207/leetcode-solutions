@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0268-missing-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jahnavi0207/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
