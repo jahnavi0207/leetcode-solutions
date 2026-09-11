@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0202-happy-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0048-rotate-image) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
