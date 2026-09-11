@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0896-monotonic-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/jahnavi0207/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/jahnavi0207/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2057-smallest-index-with-equal-value](https://github.com/jahnavi0207/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
